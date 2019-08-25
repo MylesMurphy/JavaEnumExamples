@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ***************************************************************
 * Enum Research
 * Myles Murphy
@@ -5,4 +6,7 @@
 **************************************************************
 
 What is a Enum?
-• An enum is a special "class" that represents a group of constants (unchangeable variables, like final variables). (https://www.w3schools.com/java/java_enums.asp)
+• An enum is a special "class" that represents a group of constants (unchangeable variables, like final variables). (https://www.w3schools.com/java/java_enums.asp)• An enum is a special "class" that represents a group of constants (unchangeable variables, like final variables). (https://www.w3schools.com/java/java_enums.asp)
+=======
+# JavaEnumExamples
+>>>>>>> master
